@@ -1,4 +1,4 @@
-# hello-world
+# Hello World
 
 Repository Hello World represents the languagens using my profile in GitHub.
 
